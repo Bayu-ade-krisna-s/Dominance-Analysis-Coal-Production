@@ -13,3 +13,5 @@ Based on the results of the visualization, the following conclusions can be draw
 3. From the 3 predictors, a relative percentage is made so that each of the 3 predictors have a percentage that contributes to increasing/decreasing coal production. 
 4. The Company need to focus on these 3 predictors to conduct further research, because these 3 predictors have the most impact on increasing/decreasing coal production.
 
+<img src="https://user-images.githubusercontent.com/89618021/132033845-81f6cde4-c55d-45eb-9c40-7f99615d6dbb.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/89618021/132034044-a54632d5-0896-4279-912c-43c8c5a016f4.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/89618021/132034119-138ccf8d-bbd7-4d85-9986-be85778d34fb.png" width="90%"></img> 
+
